@@ -1,0 +1,10 @@
+Directory: .\Ordered_default, 9 images
+athens.jpg
+bieszczady.jpg
+guell.jpg
+kajak.jpg
+konwalia.jpg
+lisbon.jpg
+torun.jpg
+valencia.jpg
+waterfall.jpg
